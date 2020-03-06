@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\File_Manager\File_Manager\bin\Debug\File_Manager.exe.config
+C:\Users\Acer\source\repos\File_Manager\File_Manager\bin\Debug\File_Manager.exe
+C:\Users\Acer\source\repos\File_Manager\File_Manager\bin\Debug\File_Manager.pdb
+C:\Users\Acer\source\repos\File_Manager\File_Manager\bin\Debug\MetroFramework.dll
+C:\Users\Acer\source\repos\File_Manager\File_Manager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Acer\source\repos\File_Manager\File_Manager\obj\Debug\File_Manager.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\File_Manager\File_Manager\obj\Debug\File_Manager.Form1.resources
+C:\Users\Acer\source\repos\File_Manager\File_Manager\obj\Debug\File_Manager.Properties.Resources.resources
+C:\Users\Acer\source\repos\File_Manager\File_Manager\obj\Debug\File_Manager.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\File_Manager\File_Manager\obj\Debug\File_Manager.csproj.CopyComplete
+C:\Users\Acer\source\repos\File_Manager\File_Manager\obj\Debug\File_Manager.exe
+C:\Users\Acer\source\repos\File_Manager\File_Manager\obj\Debug\File_Manager.pdb
